@@ -2,8 +2,7 @@
 -  I’m interested in everything
 -  I’m currently learning everything
 -  looking to collaborate on anything
-- contact me on github
--insta:kiritocode1
+- contact me here - https://linktr.ee/kiritocode1
 
 
 
