@@ -53,7 +53,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiritocode1&show_icons=true&locale=en&theme=dracula" alt="kiritocode1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocode1&theme=dracula" alt="kiritocode1"  width="full"/></p>
-# •⁄‿\\• <|so this is it about me  thank you for everything .|  
+
+
+<h1>  •⁄‿\\• <|so this is it about me  thank you for everything .| </h1> 
 
 
 
