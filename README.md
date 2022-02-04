@@ -29,7 +29,7 @@
 <li><a herf="https://tailwindcss.com/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/tailwind-css-logo.png" width="30px" height="30px"/></a></li>
 <li><a herf="https://www.mongodb.com/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/mongo-logo.png" width="30px" height="30px"/></a></li>
 <li><a herf=""><img src="https://github.com/kiritocode1/kiritocode1/blob/main/node-logo.png" width="30px" height="30px"/></a></li>
-
+<li><a href="https://sourceforge.net/projects/mingw/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/c%2B%2B%20logo.jpg"/>&emsp;<img src="https://github.com/kiritocode1/kiritocode1/blob/main/c-logo.png"/>
 </ul>
 
 
