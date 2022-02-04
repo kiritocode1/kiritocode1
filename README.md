@@ -53,8 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiritocode1&show_icons=true&locale=en" alt="kiritocode1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocode1&" alt="kiritocode1" /></p>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiritocode1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
