@@ -1,3 +1,23 @@
+#  Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1 <strong style="color:red">^/‿\\^</strong>
+-  I’m interested in everything
+-  I’m currently learning everything
+-  looking to collaborate on anything
+- contact me here - https://linktr.ee/kiritocode1
+
+<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="left" alt="smile" width="100%" height="420"/>
+</p>
+
+
+
+---
+
+
+
+
+
+
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiritocode1&label=Profile%20views&color=0e75b6&style=flat" alt="kiritocode1" /> </p>
@@ -86,20 +106,6 @@
 
 
 
-<!-- #  Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1 <strong style="color:red">^/‿\\^</strong>
--  I’m interested in everything
--  I’m currently learning everything
--  looking to collaborate on anything
-- contact me here - https://linktr.ee/kiritocode1
-
-<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="left" alt="smile" width="100%" height="420"/>
-</p>
-
-
-
----
-
- -->
 
 
 
