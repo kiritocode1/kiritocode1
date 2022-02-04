@@ -1,4 +1,4 @@
-#  Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1 <strong>^/‿\\^</strong>
+#  Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1 <strong style="color:red">^/‿\\^</strong>
 -  I’m interested in everything
 -  I’m currently learning everything
 -  looking to collaborate on anything
@@ -25,7 +25,7 @@
 <li><a herf="https://nodejs.org/en/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/node-logo.png" width="30px" height="30px"/></a></li>
 <li><a herf="https://tailwindcss.com/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/tailwind-css-logo.png" width="30px" height="30px"/></a></li>
 <li><a herf="https://www.mongodb.com/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/mongo-logo.png" width="30px" height="30px"/></a></li>
-<li><a herf=""><img src="https://github.com/kiritocode1/kiritocode1/blob/main/node-logo.png" width="20px" height="20px"/></a></li>
+<li><a herf=""><img src="https://github.com/kiritocode1/kiritocode1/blob/main/node-logo.png" width="30px" height="30px"/></a></li>
 
 </ul>
 
