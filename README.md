@@ -3,6 +3,17 @@
 -  I’m currently learning everything
 -  looking to collaborate on anything
 - contact me here - https://linktr.ee/kiritocode1
+
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
+
+
+
 <p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="left" alt="smile" width="100%" height="420"/>
 </p>
 
@@ -17,8 +28,8 @@
 ## im 19 yrs old and have finished 1 yr of my coding journey and ive learnt a lot of things , including -> 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 <ul>
-  <li><a href="https://www.python.org/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/readme.jpg" width="20px" height="20px"</a></li>
-<li></li>
+  <li><a href="https://www.python.org/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/readme.jpg" width="20px" height="20px" /></a></li>
+<li><a href="https://github.com/kiritocode1/kiritocode1/blob/main/css-logo.png"</li>
 <li></li>
 </ul>
 
