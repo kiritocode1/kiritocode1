@@ -9,6 +9,7 @@
 ___
 
 ## im 19 yrs old and have finished 1 yr of my coding journey
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
 
 
