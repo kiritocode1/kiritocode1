@@ -4,7 +4,7 @@
 -  looking to collaborate on anything
 - contact me here - https://linktr.ee/kiritocode1
 
-
+![Alt text](https://sample/url/name-of-gif-file.gif)
 
 
 
