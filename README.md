@@ -55,7 +55,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocode1&theme=dracula" alt="kiritocode1"  width="full"/></p>
 
 
-<h1>  •⁄‿\\• <|so this is it about me  thank you for everything .| </h1> 
+<h1>  •⁄_\• <|so this is it about me  thank you for everything .| </h1> 
 
 
 
