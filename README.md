@@ -5,13 +5,10 @@
 - contact me here - https://linktr.ee/kiritocode1
 
 <style>
-.mark{
-    color:red;
-}
+.red {color: red}
 </style>
 
-<h1  class="mark">what is DataBase</h1>
-
+<h2 class="red">hello</h2>
 
 
 <p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="left" alt="smile" width="100%" height="420"/>
