@@ -18,8 +18,8 @@
 ## im 19 yrs old and have finished 1 yr of my coding journey and ive learnt a lot of things , including -> 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 <ul>
-  <li><a href="https://www.python.org/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/readme.jpg" width="20px" height="20px" /></a></li>
-  <li><a href="https://sepia-slope-2a3.notion.site/HTML-and-CSS-and-Basic-Javascript-2753717d90ab49d196df9b8677926f86"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/css-logo.png"  width="20px" height="20px"/>&emsp;<img src="https://github.com/kiritocode1/kiritocode1/blob/main/html-logo.png"  width="30px" height="20px"/>&emsp;
+  <li><a href="https://www.python.org/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/readme.jpg" width="30px" height="30px" /></a></li>
+  <li><a href="https://sepia-slope-2a3.notion.site/HTML-and-CSS-and-Basic-Javascript-2753717d90ab49d196df9b8677926f86"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/css-logo.png"  width="30px" height="30px"/>&emsp;<img src="https://github.com/kiritocode1/kiritocode1/blob/main/html-logo.png"  width="30px" height="30px"/>&emsp;
     <img src="https://github.com/kiritocode1/kiritocode1/blob/main/js-logo.png"  width="20px" height="20px"/>
     </a></li>
 <li><a herf="https://nodejs.org/en/"><img src="https://github.com/kiritocode1/kiritocode1/blob/main/node-logo.png" width="20px" height="20px"/></a></li>
