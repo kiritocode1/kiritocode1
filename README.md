@@ -5,7 +5,9 @@
 - contact me here - https://linktr.ee/kiritocode1
 <p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="left" alt="smile" width="100%" height="420"/>
 </p>
-___ 
+
+---
+
 ## im 19 yrs old and have finished 1 yr of my coding journey
 
 
