@@ -1,4 +1,4 @@
-#  |Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1| > <strong style="color:red">^/‿\\^</strong>
+#  |Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1| > <code style="color:red">^/‿\\^</code>
 -  I’m interested in everything
 -  I’m currently learning everything
 -  looking to collaborate on anything
@@ -55,7 +55,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocode1&theme=dracula" alt="kiritocode1"  width="full"/></p>
 
 
-<h1>  •⁄_\• <|so this is it about me  thank you for everything .| </h1> 
+<h1>  •⁄_\• <|so this is it about me , go outside ¯\_(ツ)_/¯.| </h1> 
 
 
 
