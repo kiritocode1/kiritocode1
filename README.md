@@ -1,4 +1,4 @@
-#  Hi, I’m @kiritocode1
+#  Hi, I’m <code>@kiritocode1</code>
 -  I’m interested in everything
 -  I’m currently learning everything
 -  looking to collaborate on anything
