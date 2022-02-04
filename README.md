@@ -3,7 +3,7 @@
 -  I’m currently learning everything
 -  looking to collaborate on anything
 - contact me here - https://linktr.ee/kiritocode1
-<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="center" alt="smile" width="500" height="320"/></p>
+<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="left" alt="smile" width="500" height="320"/></p>
 
 
 
