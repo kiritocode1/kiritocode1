@@ -5,12 +5,12 @@
 - contact me here - https://linktr.ee/kiritocode1
 
 <style>
-mark{
+.mark{
     color:red;
 }
 </style>
 
-<mark>what is DataBase</mark>
+<h1  class="mark">what is DataBase</h1>
 
 
 
