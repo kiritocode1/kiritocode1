@@ -8,7 +8,7 @@
 .red {color: red}
 </style>
 
-<h2 class="red">hello</h2>
+<h2>hello</h2>{.red}
 
 
 <p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/github_smile.gif"  align="left" alt="smile" width="100%" height="420"/>
