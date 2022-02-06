@@ -4,7 +4,7 @@
 -  looking to collaborate on anything
 - contact me here - https://linktr.ee/kiritocode1
 
-<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="left" alt="smile" width="100%" height="420"/>
+<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="left" alt="smile" width="100%" height="30%"/>
 </p>
 
 
