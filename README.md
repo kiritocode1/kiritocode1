@@ -1,4 +1,4 @@
-#  |Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1| > <code style="color:red">^/‿\\^</code>
+#  <code style="color:red">^/‿\\^</code><|Hi &nbsp; <img src="https://github.com/kiritocode1/kiritocode1/blob/main/wave.gif" width="40px" height="40px"/> , I’m @kiritocode1|
 -  I’m interested in everything
 -  I’m currently learning everything
 -  looking to collaborate on anything
