@@ -55,6 +55,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritocode1&theme=dracula" alt="kiritocode1"  width="full"/></p>
 
 
+
+
+
+
+
+[![kiritocode1's activity graph](https://activity-graph.herokuapp.com/graph?username=kiritocode1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 <h1>  •⁄_\• <|so this is it about me , go outside ¯\_(ツ)_/¯.| </h1> 
 
 
