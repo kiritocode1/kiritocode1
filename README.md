@@ -62,7 +62,8 @@
 
 [![kiritocode1's activity graph](https://activity-graph.herokuapp.com/graph?username=kiritocode1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <h1>  •⁄_\• <|so this is it about me , go outside ¯\_(ツ)_/¯.| </h1> 
