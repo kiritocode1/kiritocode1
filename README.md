@@ -18,7 +18,7 @@
 
 
 
-<h1 align="center"> just A passionate+dumb fullstack devOP from India</h1>
+<h1 align="center"> just A passionate+dumb fullstack devOP prodigy from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiritocode1&label=Profile%20views&color=0e75b6&style=flat" alt="kiritocode1" /> &emsp;</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=kiritocode1" alt="kiritocode1" /></a> </p>
