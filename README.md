@@ -81,7 +81,11 @@
 <a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">Video games👾🤖👹</h1></a>
 
 
-
+#Q & As
+1. Are you a nerd/weeb/phsycopath? -No  nerd, weeb or a phsycopath or any permutations of those 3. 
+2. You listen to kanye west i found out , u support trump ? 
+- noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
+4. 
 
 
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
