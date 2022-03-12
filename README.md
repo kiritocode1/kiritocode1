@@ -69,12 +69,16 @@
 <!--END_SECTION:waka-->
 
 # Things i 🖤 other than coding -> 
-<h1 align="center"> books 📚</h1>
-- music 🎧
-- friends . 🥰
-- philosophy 😴
-- Anime and Movies 🔥
-- games 
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center"> books 📚</h1></a>
+
+
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">music & podcasts 🎧</h1></a>
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">Making and meeting friends 😍🤗</h1></a>
+
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">philosophy😴😴😴</h1></a>
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">Anime and Movies 🔥</h1></a>
+ 
+<a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">Video games👾🤖👹</h1></a>
 
 
 
