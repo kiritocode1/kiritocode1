@@ -82,10 +82,20 @@
 
 
 #Q & As
-1. Are you a nerd/weeb/phsycopath? -No  nerd, weeb or a phsycopath or any permutations of those 3. 
-2. You listen to kanye west i found out , u support trump ? 
+1. Are you a nerd/weeb/phsycopath? 
+-No im not a nerd, weeb or a phsycopath or any permutations of those 3. 
+3. You listen to kanye west i found out , u support trump ? 
 - noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
-4. 
+4. Wth are you doing all the time ? 
+-idk 👤
+5. you like pineapple on pizza ? 
+- Absolutely! i think its a great invention keep making more 
+6. Would u like to work for FAANG ? 
+- At this point in my life , i would love to , but i wont stay long 
+7. When do you plan to retire ? 
+- By 26 , I plan to financially retire and work for myself/ follow my passion or the things i love. 
+8. Are you funny ?
+- no im not funny , im a neeeerrrrrd . 
 
 
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
