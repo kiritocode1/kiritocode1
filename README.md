@@ -87,7 +87,7 @@
 3. You listen to kanye west i found out , u support trump ? 
 - noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
 4. Wth are you doing all the time ? 
--idk 👤
+[]idk 👤
 5. you like pineapple on pizza ? 
 - Absolutely! i think its a great invention keep making more 
 6. Would u like to work for FAANG ? 
