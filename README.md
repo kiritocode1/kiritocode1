@@ -87,7 +87,7 @@
 3. You listen to kanye west i found out , u support trump ? 
 - noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
 4. Wth are you doing all the time ? 
-[ ]idk 👤
+- idk 👤
 5. you like pineapple on pizza ? 
 - Absolutely! i think its a great invention keep making more 
 6. Would u like to work for FAANG ? 
@@ -95,7 +95,7 @@
 7. When do you plan to retire ? 
 - By 26 , I plan to financially retire and work for myself/ follow my passion or the things i love. 
 8. Are you funny ?
-- no im not funny , im a neeeerrrrrd . 
+- no im not funny , im a neeeerrrrrd . all i have is pickle riick and dry humor  please go watch bo burnham or jimmy kimmel if youre into that 
 
 
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
