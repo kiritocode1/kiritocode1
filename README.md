@@ -96,7 +96,9 @@
 - By 26 , I plan to financially retire and work for myself/ follow my passion or the things i love. 
 8. Are you funny ?
 - no im not funny , im a neeeerrrrrd . all i have is pickle riick and dry humor  please go watch bo burnham or jimmy kimmel if youre into that 
-
+9. u watched game of thrones ? 
+- No stop it , get some help 
+- 
 
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
 
