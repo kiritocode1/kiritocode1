@@ -69,17 +69,18 @@
 <!--END_SECTION:waka-->
 
 # Things i 🖤 other than coding -> 
-- books 📚
+<h1 align="center"> books 📚</h1>
 - music 🎧
 - friends . 🥰
 - philosophy 😴
 - Anime and Movies 🔥
+- games 
 
 
 
 
 
-<h1>  •⁄_\• <|so this is it about me , go outside ¯\_(ツ)_/¯.| </h1> 
+<h1>  •/_\• <|so this is it about me, go outside!|</h1> 
 
 
 
