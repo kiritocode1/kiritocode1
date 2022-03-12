@@ -83,7 +83,7 @@
 
 #Q & As
 1. Are you a nerd/weeb/phsycopath? 
--No im not a nerd, weeb or a phsycopath or any permutations of those 3. 
+- No im not a nerd, weeb or a phsycopath or any permutations of those 3. 
 3. You listen to kanye west i found out , u support trump ? 
 - noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
 4. Wth are you doing all the time ? 
