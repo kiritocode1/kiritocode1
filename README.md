@@ -3,7 +3,7 @@
 -  I’m currently learning everything
 -  looking to collaborate on anything
 - contact me here - https://linktr.ee/kiritocode1
-```cmd
+```
 npx kiritocode1
 ```
 
