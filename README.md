@@ -89,22 +89,22 @@ npx kiritocode1
 
 <details>
  <summary>Q&As</summary>
-1. Are you a nerd/weeb/phsycopath? 
-- No im not a nerd, weeb or a phsycopath or any permutations of those 3. 
-3. You listen to kanye west i found out , u support trump ? 
-- noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . 
-4. Wth are you doing all the time ? 
-- idk 👤
-5. you like pineapple on pizza ? 
-- Absolutely! i think its a great invention keep making more 
-6. Would u like to work for FAANG ? 
-- At this point in my life , i would love to , but i wont stay long 
-7. When do you plan to retire ? 
-- By 26 , I plan to financially retire and work for myself/ follow my passion or the things i love. 
-8. Are you funny ?
-- no im not funny , im a neeeerrrrrd . all i have is pickle riick and dry humor  please go watch bo burnham or jimmy kimmel if youre into that 
-9. u watched game of thrones ? 
-- No stop it , get some help 
+1. Are you a nerd/weeb/phsycopath? <br>
+- No im not a nerd, weeb or a phsycopath or any permutations of those 3.<br> 
+3. You listen to kanye west i found out , u support trump ? <br>
+- noo i listen to all musicians and that has nothing to do with my political beliefs , becasue i have none . <br>
+4. Wth are you doing all the time ? <br>
+- idk 👤<br>
+5. you like pineapple on pizza ?<br> 
+- Absolutely! i think its a great invention keep making more <br> 
+6. Would u like to work for FAANG ? <br>
+- At this point in my life , i would love to , but i wont stay long <br> 
+7. When do you plan to retire ?  <br>
+- By 26 , I plan to financially retire and work for myself/ follow my passion or the things i love. <br> 
+8. Are you funny ? <br>
+- no im not funny , im a neeeerrrrrd . all i have is pickle riick and dry humor  please go watch bo burnham or jimmy kimmel if youre into that  <br>
+9. u watched game of thrones ? <br>
+- No stop it , get some help <br>
 </details>
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
 
