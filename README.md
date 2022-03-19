@@ -87,7 +87,8 @@ npx kiritocode1
 <a target="_blank" herf="https://sepia-slope-2a3.notion.site/Collective-thoughts-2360f2221c194f60a6bf6af3e70ec53f"><h1 align="center">Video games👾🤖👹</h1></a>
 
 
-#Q & As
+<details>
+ <summary>Q&As</summary>
 1. Are you a nerd/weeb/phsycopath? 
 - No im not a nerd, weeb or a phsycopath or any permutations of those 3. 
 3. You listen to kanye west i found out , u support trump ? 
@@ -104,8 +105,7 @@ npx kiritocode1
 - no im not funny , im a neeeerrrrrd . all i have is pickle riick and dry humor  please go watch bo burnham or jimmy kimmel if youre into that 
 9. u watched game of thrones ? 
 - No stop it , get some help 
-- 
-
+</details>
 <h1>  •/_\• <|so this is it about me, go outside!|</h1> 
 
 
