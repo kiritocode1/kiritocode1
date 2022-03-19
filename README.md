@@ -88,7 +88,7 @@ npx kiritocode1
 
 
 <details>
- <summary>Q&As</summary>
+ <summary align="center" fontsize="40px"> Q&As </summary>
 1. Are you a nerd/weeb/phsycopath? <br>
 - No im not a nerd, weeb or a phsycopath or any permutations of those 3.<br> 
 3. You listen to kanye west i found out , u support trump ? <br>
