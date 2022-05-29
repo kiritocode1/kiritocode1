@@ -10,7 +10,7 @@ npx kiritocode1
 
 
 
-<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="center" alt="smile" width="100%" height="30%"/>
+<p><img src="https://github.com/kiritocode1/kiritocode1/blob/main/itachi_smiling.gif"  align="right" alt="smile" width="100%" height="30%"/>
 </p>
 
 
