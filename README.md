@@ -6,7 +6,7 @@
 ```
 npx kiritocode1
 ```
-
+<figure><embed src="https://wakatime.com/share/@545e2b01-153f-431d-acc2-99ab110f6c50/c282d84b-39e5-4eaf-8f69-fe2d4f21714a.svg"></embed></figure>
 
 
 
