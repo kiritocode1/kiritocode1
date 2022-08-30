@@ -14,19 +14,19 @@ Directly connect with me here : <br>
 
 <div>
 <a href="https://www.linkedin.com/in/aryan-kathawale-8983b5171/">
-<img src="./assets/linkedin.png" width="50">
+<img src="./assets/linkedin.png" width="30">
 </a>
 &nbsp;
 <a href="https://twitter.com/kiritotwt1">
-<img src="./assets/twitter.png" width="50">
+<img src="./assets/twitter.png" width="30">
 </a>
 &nbsp; 
 <a href="https://kathawalearyan.medium.com/">
-<img src="./assets/medium.png" width="50">
+<img src="./assets/medium.png" width="30">
 </a>
 &nbsp; 
 <a href="mailto:kathawalearyan9@gmail.com?subject=Hello%20Astronaut🚀%20let's%20connect!!!😊">
-<img src="./assets/gmail.png" width="50">
+<img src="./assets/gmail.png" width="30">
 </a>
 
 
@@ -37,13 +37,8 @@ Directly connect with me here : <br>
 </div>
 
 
-
-
-<div align="right">A</div>
-<div align="left">B</div>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@545e2b01-153f-431d-acc2-99ab110f6c50/2011030a-72af-48ff-bb24-2698be57fe81.png" style=" height:300px;" /></a>
-
-<div align="center">
-currently work in progress  👨‍💻
+<div align="center"  style="margin-top:20px; ">
+<h1> About Me 
+</h1>
+lorem ipsum dolor sit amet lol 
 <div>
