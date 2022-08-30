@@ -38,8 +38,13 @@ Directly connect with me here : <br>
 
 
 <div align="center"  style="margin-top:20px; ">
-<h1> About Me 
+<h1> Something About Me 😊 
 </h1>
-im a <b>Fullstack Developer 👨‍💻</b> With priority to MERN stack .<br> I ❤️ Contributing to open source and take part in  online events including . <br> <b>Google Developers Students Club</b> , <b>MLH</b>, <b>Github Students</b> , <b>EddieHub</b> <br>and many more<br> i love collaborating with people and work on cool projects <br>
+Im a <b>Fullstack Developer 👨‍💻</b> With priority to MERN stack .<br> I ❤️ the <b>Internet</b> and advoucate to open source and take part in  online events including . <br> <b>Google Developers Students Club ⭐</b> , <b>MLH 😘</b>, <b>Github Students😊</b> , <b>EddieHub 😁</b> <br>and many more<br> i love collaborating with people and work on cool projects <br>
 my future goal is to work @ <b>Nasa</b> as an SWE . <br> because i love all things space related 🚀🧑‍🚀 . im open to Work on any new technologies that appear on the <b>Internet</b>
 <div>
+
+
+
+
+
