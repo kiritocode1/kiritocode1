@@ -1,4 +1,4 @@
-![background](Astronautlol.png)
+<img src="./Astronautlol.png" style="width:100%; ">
 
 <div style="display:flex ; width:100% ; height:140px;
 justify-content: space-around;
