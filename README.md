@@ -59,3 +59,7 @@ style=" fill:#000000;"><path d="M 43.753906 6.4023438 C 42.53621 6.3489969 41.29
 <div align="left">B</div>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@545e2b01-153f-431d-acc2-99ab110f6c50/2011030a-72af-48ff-bb24-2698be57fe81.png" style=" height:300px;" /></a>
+
+<div align="center">
+currently work in progress  👨‍💻
+<div>
