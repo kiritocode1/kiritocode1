@@ -54,12 +54,10 @@ my future goal is to work @ <b>Nasa</b> as an SWE . <br> because i love all thin
   &bullet;&nbsp;I develop websites and applications.<i> If you want me to develop something , i want 🍪</i><br>
   &bullet;&nbsp;Open source contributor : <i> Happy to contribute and add value to community.</i><br>
   &bullet;&nbsp;Internet Activist: <i> Fight for freedom of information and freedom to code . </i><br>
-    &bullet;&nbsp; Goto my personal website  ➡️ <a href="https://kiritocode1.github.io" target="_blank">Here </a><br>
+    &bullet;&nbsp; Goto my <b>personal website</b>  here  ➡️ <a href="https://kiritocode1.github.io" target="_blank">◉/_\◉ </a><br>
 </div>
 
 <br>
-
-<div  style="margin-top:20px;margin-bottom:20px; ">◉/_\◉ </div>
 
 ### Motto in life : 
 > #  Programming is Magical 🪄 , its upto us to do good with it 🌎 .
@@ -204,3 +202,16 @@ Machine Learning 🤖 {skynet coming soon 🦾}
 ```powershell
 npx kiritocode1
 ```
+
+### that's it about me ,for more  Checkout **Personal website** for some Cool  easter eggs. <br>👇👇👇
+**[◉/_\◉](https://kiritocode1.github.io)**
+
+<br>
+
+### Collab w/ me , gmail in personal website . bye 
+
+
+![dinos](dinolol.jpg)
+
+
+
