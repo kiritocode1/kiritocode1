@@ -199,7 +199,7 @@ Machine Learning 🤖 {skynet coming soon 🦾}
 
 
 ### Virtual Card here {for developers} 
-```powershell
+```
 npx kiritocode1
 ```
 
@@ -208,7 +208,7 @@ npx kiritocode1
 
 <br>
 
-### Collab w/ me , gmail in personal website . bye 
+### Collab w/ me , *GMAIL* in website as well . Goodbye
 
 
 ![dinos](dinolol.jpg)
