@@ -211,7 +211,7 @@ npx kiritocode1
 ### Collab w/ me , *GMAIL* in website as well . Goodbye
 
 
-![dinos](dinolol.jpg)
+
 
 
 
