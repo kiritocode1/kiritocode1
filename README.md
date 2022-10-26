@@ -207,11 +207,4 @@ npx kiritocode1
 **[◉/_\◉](https://kiritocode1.github.io)**
 
 <br>
-
-### Collab w/ me , *GMAIL* in website as well . Goodbye
-
-
-
-
-
-
+### gmail to connect is in my main , ***Goodbye Space Citizens***
