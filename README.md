@@ -1,4 +1,4 @@
-<img src="/new_board.png" style="width:100%; ">
+<img src="./new_board.png" style="width:100%; ">
 
 <div align="center"><h1 align="center"> Hello Internet <img src="./hello.gif" width="40px" height="40px"> <br>
 Im Aryan Kathawale
