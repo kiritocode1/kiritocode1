@@ -1,7 +1,7 @@
 ![Card](banner.png)
 
 
-# Im Aryan
+# Im Aryan/Arie/BLANK
 
 a fanatic open source developer and a fullstack engineer. check the pinned projects to see some of my work .
 
